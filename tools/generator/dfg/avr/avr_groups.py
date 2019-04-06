@@ -203,17 +203,15 @@ avr_groups = \
     {
         'family': ['xmega'],
         'type': ['a1'],
+        'pin': ['', 'u']
     },{
         'family': ['xmega'],
         'type': ['a3'],
-        'pin': ['', 'b']
-    },{
-        'family': ['xmega'],
-        'type': ['a3'],
-        'pin': ['bu', 'u']
+        'pin': ['', 'b', 'u', 'bu']
     },{
         'family': ['xmega'],
         'type': ['a4'],
+        'pin': ['', 'u']
     },{
         'family': ['xmega'],
         'type': ['b1'],
